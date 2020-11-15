@@ -1,5 +1,8 @@
 ### Hellooo :)
 
+I'm a software engineering student with a passion in finding the most optimized, scalable solutions and best practices.
+
+
 <!--
 **Thitiratratrat/Thitiratratrat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
