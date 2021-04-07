@@ -1,6 +1,6 @@
 ### Hellooo :)
 
-I'm a software engineering student with a passion in finding the most optimized, scalable solutions and best practices.
+I'm a software engineering student with an interest in finding the most optimized, scalable solutions and best practices.
 
 
 <!--
